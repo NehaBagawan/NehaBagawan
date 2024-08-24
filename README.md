@@ -1,7 +1,7 @@
-## Well, hello! 👋 I'm Ramlavan Arumugasamyi, pleased to make your acquaintance
-🔧 Mechanical Engineer | 🤖 AI/ML Enthusiast | Data Analyst | 📊 Exploring the World of Data
+## Well, hello! 👋 I'm Neha Bagawan, pleased to make your acquaintance
+🔧 Data Analyst/Business analyst | 🤖 Mysql | Data Analyst | 📊 Exploring the World of Data
 
-#### I'm a Mechanical Engineer on a journey of discovery, delving into the fascinating realms of Artificial Intelligence, Machine Learning, and Data Analytics. While I'm not yet an expert, I'm eager to learn and grow in these exciting fields.
+#### I'm a Data analyst on a journey of discovery, delving into the fascinating realms of Data clenaning , Data visulazation, PowerBI,Statistics,MySql and Data Analytics. While I'm not yet an expert, I'm eager to learn and grow in these exciting fields.
 
 <img align="right" width="370" height="280" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
