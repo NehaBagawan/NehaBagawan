@@ -5,16 +5,14 @@
 
 <img align="right" width="370" height="280" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 💻 Passionate about Machine Learning, Artificial Intelligence and Data Analytics
-- 🔭 Here's my [portfolio](https://ramlavn.github.io/Portfolio/)                                                 
-- 🌱 Currently Exploring: Machine Learning Algorithms and Data Analytics
-- 👯 Looking to Collaborate On: Exciting ML/AI and Data Analysis projects
+- 💻 Passionate about Machine Learning, Artificial Intelligence and Data Analytics                                               
+- 🌱 Currently Exploring: MySql,PowerBI Components and Data Analytics
+- 👯 Looking to Collaborate On: Exciting Data Analysis projects
 - 🤔 Seeking: Opportunities and guidance for placements in innovative startups
 - 💬 Ask Me About: Anything tech-related – I'm always up for a chat!
 - 😄 Pronouns: Innovator/Techie
-- ⚡ Fun Fact: I once built a robot that can solve a Rubik's Cube!
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/iramlavan) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ramlavan-arumugasamyi-13b046296/) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/iramlavan/)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/ramlavan-arumugasamyi-13b046296/](https://www.linkedin.com/in/neha-bagawan-data-analyst)) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/iramlavan/)
 
 
 #### Feel free to reach out, whether you're a seasoned pro or just starting out like me. Let's learn and grow together in the vast world of AI, ML, and data analytics! 🚀
