@@ -12,8 +12,7 @@
 - 💬 Ask Me About: Anything tech-related – I'm always up for a chat!
 - 😄 Pronouns: Innovator/Techie
 - 📫 How to reach me :
-<br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/neha-bagawan-data-analyst) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/iramlavan/)
-
+<br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/neha-bagawan-data-analyst)
 #### Feel free to reach out, whether you're a seasoned pro or just starting out like me. Let's learn and grow together in the vast world of AI, ML, and data analytics! 🚀
 
 
